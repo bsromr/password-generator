@@ -8,7 +8,7 @@ You'll see binary file under $GOPATH/bin.
 
 To achieve from anywhere in Linux, it must be in /bin folder.
 
-`sudo mv $GOPATH/bin/password-generator /bin`
+`sudo mv $GOPATH/bin/password-generator /bin/password-generator`
 
 and run `password-generator`  from anywhere.
 
