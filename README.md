@@ -4,7 +4,7 @@ Installation
 
 Clone the repo and run `go install`
 
-You'll see binary file under $GOPATH/bin. 
+You'll see the binary file in $GOPATH/bin. 
 
 To achieve from anywhere in Linux, it must be in /bin folder.
 
